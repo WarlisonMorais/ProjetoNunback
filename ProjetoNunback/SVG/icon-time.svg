@@ -1,0 +1,24 @@
+<svg width="73" height="72" viewBox="0 0 73 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon-time" clip-path="url(#clip0_264_612)">
+<g id="icon-time_2">
+<path id="Rectangle 1005" d="M55.4231 0H17.5769C8.14559 0 0.5 7.64559 0.5 17.0769V54.9231C0.5 64.3544 8.14559 72 17.5769 72H55.4231C64.8544 72 72.5 64.3544 72.5 54.9231V17.0769C72.5 7.64559 64.8544 0 55.4231 0Z" fill="#FBF8FC"/>
+<g id="Group 447">
+<path id="Vector" d="M36.5 52C45.3366 52 52.5 44.8366 52.5 36C52.5 27.1634 45.3366 20 36.5 20C27.6634 20 20.5 27.1634 20.5 36C20.5 44.8366 27.6634 52 36.5 52Z" stroke="url(#paint0_linear_264_612)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M36.5 26.3984V35.9984L42.9 39.1984" stroke="url(#paint1_linear_264_612)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_264_612" x1="47.54" y1="24.32" x2="26.58" y2="48.48" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A950C4"/>
+<stop offset="1" stop-color="#82269E"/>
+</linearGradient>
+<linearGradient id="paint1_linear_264_612" x1="41.908" y1="28.1264" x2="34.5803" y2="32.3496" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A950C4"/>
+<stop offset="1" stop-color="#82269E"/>
+</linearGradient>
+<clipPath id="clip0_264_612">
+<rect width="72" height="72" fill="white" transform="translate(0.5)"/>
+</clipPath>
+</defs>
+</svg>

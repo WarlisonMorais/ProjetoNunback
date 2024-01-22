@@ -1,0 +1,31 @@
+<svg width="73" height="72" viewBox="0 0 73 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon-contactless" clip-path="url(#clip0_264_2)">
+<g id="icon-contactless_2">
+<g id="Group 347">
+<path id="Rectangle 1013" d="M55.4231 0H17.5769C8.14559 0 0.5 7.64559 0.5 17.0769V54.9231C0.5 64.3544 8.14559 72 17.5769 72H55.4231C64.8544 72 72.5 64.3544 72.5 54.9231V17.0769C72.5 7.64559 64.8544 0 55.4231 0Z" fill="#FBF8FC"/>
+<g id="Group 341">
+<path id="Vector" d="M32.9672 25.4961C35.4955 28.5315 36.88 32.357 36.88 36.3074C36.88 40.2579 35.4955 44.0834 32.9672 47.1188" stroke="url(#paint0_linear_264_2)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M38.4189 20C42.3749 24.488 44.5576 30.2651 44.5576 36.2477C44.5576 42.2304 42.3749 48.0075 38.4189 52.4954" stroke="url(#paint1_linear_264_2)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M27.5002 30.918C28.6078 32.4771 29.2029 34.3422 29.2029 36.2546C29.2029 38.1671 28.6078 40.0321 27.5002 41.5912" stroke="url(#paint2_linear_264_2)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_264_2" x1="36.3518" y1="43.7673" x2="31.2987" y2="42.974" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A950C4"/>
+<stop offset="1" stop-color="#82269E"/>
+</linearGradient>
+<linearGradient id="paint1_linear_264_2" x1="43.7289" y1="47.4586" x2="35.8183" y2="46.1622" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A950C4"/>
+<stop offset="1" stop-color="#82269E"/>
+</linearGradient>
+<linearGradient id="paint2_linear_264_2" x1="28.973" y1="39.9368" x2="26.7623" y2="39.6309" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A950C4"/>
+<stop offset="1" stop-color="#82269E"/>
+</linearGradient>
+<clipPath id="clip0_264_2">
+<rect width="72" height="72" fill="white" transform="translate(0.5)"/>
+</clipPath>
+</defs>
+</svg>
